@@ -1,0 +1,32 @@
+/* Fontes e Configurações Globais */
+@import url('https://fonts.googleapis.com/css2?family=Rawline:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Segoe UI', 'Rawline', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Cores Padrão Gov.br */
+.bg-gov-blue {
+    background-color: #1351b4;
+}
+
+.text-gov-blue {
+    color: #1351b4;
+}
+
+/* Botão Padrão Gov */
+.btn-gov {
+    background-color: #1351b4;
+    color: white;
+    border-radius: 2rem;
+}
+
+.btn-gov:hover {
+    background-color: #0c326f;
+}
+
+/* Input Highlight (Amarelo suave do gov) */
+.input-highlight {
+    background-color: #fffcd6;
+}
