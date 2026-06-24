@@ -5,7 +5,7 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
 ![Tests](https://img.shields.io/badge/Tests-Selenium-yellow)
 
-Este é um projeto de **Engenharia de Software** que simula um sistema completo de gestão para Unidades Básicas de Saúde (UBS). O sistema permite que pacientes agendem consultas online (com interface similar ao Gov.br), recepcionistas gerenciem a fila de espera e médicos realizem o atendimento clínico.
+Este é um projeto de **Engenharia de Software** e **Experiência do Usuário** que simula um sistema completo de gestão para Unidades Básicas de Saúde (UBS). O sistema permite que pacientes agendem consultas online (com interface similar ao Gov.br), recepcionistas gerenciem a fila de espera e médicos realizem o atendimento clínico.
 
 O projeto foi desenvolvido seguindo rigorosamente o padrão de arquitetura **MVC (Model-View-Controller)**.
 
